@@ -5,4 +5,4 @@ Manga Website Project
 
 ### License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Manga website is built upon laravel and angular licensed under the [MIT license](http://opensource.org/licenses/MIT)
